@@ -1,17 +1,17 @@
 # Quiz Game
 
-# Overview
+## Overview
 This is a simple quiz game programmed in Python using the Pygame Zero framework. 
 The game presents the player with a series of multiple-choice questions and tracks their score based on how many questions they answer correctly.
  The game ends when all questions have been answered or when the timer runs out.
 
-# Features
+## Features
 - Multiple-choice questions with four answer options.
 - Timer functionality to limit the time for each question.
 - Score tracking to keep track of correct answers.
 - Game over message displaying the final score.
 
-# How to Play
+## How to Play
 1. Run the `quiz.py` file using Python.
 2. Read each question carefully.
 3. Click on the answer you believe is correct.
@@ -20,7 +20,4 @@ The game presents the player with a series of multiple-choice questions and trac
 6. After the game ends, the final score will be displayed.
 
 ## Credits
-This project was inspired by the book "Coding Games in Python" (Chapter 7, Page 100).
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project was inspired by the book "_Coding Games in Python_" (Chapter 7, Page 100).
